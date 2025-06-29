@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427576352462",
+    "project_id": "mscs-9915e",
+    "storage_bucket": "mscs-9915e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427576352462:android:5e4c2ce26d6fb4ef80ba9f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVy-wnu0kbnE4n0-R-xuR36vPRX_ZTx2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
